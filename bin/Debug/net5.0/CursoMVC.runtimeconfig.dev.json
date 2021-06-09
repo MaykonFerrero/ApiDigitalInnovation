@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Maykon Ferrero\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maykon Ferrero\\.nuget\\packages"
+    ]
+  }
+}
